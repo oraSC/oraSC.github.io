@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'https://gems.ruby-china.com/'
 
 # 'github-pages' includes 'jekyll' gem 
 gem 'github-pages'
